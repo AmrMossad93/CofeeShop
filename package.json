@@ -1,0 +1,23 @@
+{
+  "name": "cofee-shop",
+  "version": "1.0.0",
+  "description": "CofeeShop Website Mobile First",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrMossad93/CofeeShop.git"
+  },
+  "author": "Amr Mossad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmrMossad93/CofeeShop/issues"
+  },
+  "homepage": "https://github.com/AmrMossad93/CofeeShop#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
